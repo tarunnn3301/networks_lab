@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
